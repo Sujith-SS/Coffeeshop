@@ -22,9 +22,7 @@ html::-webkit-scrollbar{
 #navbar{
     background-color: #b2744c;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 15);
-    width: 100%;
-    position: fixed;
-    z-index: 100;
+
 }
 #logo img{
     border-radius: 10px;
